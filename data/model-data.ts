@@ -40,7 +40,7 @@ export const modelData: ModelData = {
   // Optional fields left blank are automatically hidden.
   details: {
     age: "10 years", 
-    dateOfBirth: "",
+    dateOfBirth: "07 July 2015",
     height: "152 cm",
     weight: "54 kg",
     Bust: "35 cm",
