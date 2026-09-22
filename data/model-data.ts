@@ -64,11 +64,11 @@ export const modelData: ModelData = {
   instagram: "",
 
   ecommerce: [
-  /**{
+  {
     name: "Flipkart",
-    url: "https://www.flipkart.com/",
-    description: "Shop featured products and collections.",
-  },*/
+    url: "https://www.flipkart.com/product/p/itme?pid=AZTHZYC8ZWC96HJS",
+    description: "Shop featured products and collections. Jammer Shirt Pant Co-ords Set",
+  },
 ],
 
   /**
